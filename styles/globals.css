@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url(//db.onlinewebfonts.com/c/ce11b890e2dda29369a1a27b5e58397a?family=GT+Super+Text);
+
+
+h1{
+    font-family: "GT Super Text", "Courier New", monospace;
+}
